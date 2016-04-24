@@ -25,9 +25,9 @@ abstract class Hush_Db_Config
 	 */
 	const DEFAULT_TYPE = 'MYSQLI';
 	const DEFAULT_HOST = '127.0.0.1';
-	const DEFAULT_PORT = '3306';
+	const DEFAULT_PORT = '3307';
 	const DEFAULT_USER = 'root';
-	const DEFAULT_PASS = 'passwd';
+	const DEFAULT_PASS = 'coolspring';
 	
 	/**
 	 * 每个 cluster 包含一个 master 和 slave 数组
